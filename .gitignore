@@ -25,4 +25,4 @@ lib/bs
 .merlin
 .bsb.lock
 .idea
-/node-modules
+/node_modules
