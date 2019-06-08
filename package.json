@@ -1,0 +1,21 @@
+{
+  "name": "express",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^5.0.4"
+  },
+  "dependencies": {
+    "@glennsl/bs-json": "^4.0.0",
+    "bs-express": "^0.12.0"
+  }
+}
